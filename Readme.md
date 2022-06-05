@@ -1,0 +1,1 @@
+Este projeto tem como base se tornar uma POC para um projeto de pipeline com Gatling e jenkins
